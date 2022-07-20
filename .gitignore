@@ -1,6 +1,8 @@
-.DS_Store
-pkg/*
-~*
-#*#
-*.wav
-
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/

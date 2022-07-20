@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    wav-file-kai (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hoe (3.24.0)
+      rake (>= 0.8, < 15.0)
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  bundler (~> 2.3)
+  hoe (>= 2.1.0)
+  rake (~> 13.0)
+  wav-file-kai!
+
+BUNDLED WITH
+   2.3.18

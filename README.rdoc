@@ -1,5 +1,7 @@
 = wav-file
 
+@shokaiのruby-wav-fileのフォーク版です。
+
 * http://github.com/shokai/ruby-wav-file
 
 == DESCRIPTION:
@@ -9,14 +11,12 @@ Read wav file format and Edit data chunk.
 
 == ENVIRONMENT:
 
-* Ruby 1.8.7
-* Ruby 1.9.2
-* JRuby 1.6.0
+* Ruby 2.7.6
 
 
 == INSTALL:
-
-* gem install wav-file
+* gem install specific_install
+* gem install -l 'https://github.com/shoshoi/ruby-wav-file-kai.git'
 
 == TIPS:
 

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    wav-file-kai (0.1.0)
+    wav-file (0.0.4)
 
 GEM
   remote: https://rubygems.org/
@@ -17,7 +17,7 @@ DEPENDENCIES
   bundler (~> 2.3)
   hoe (>= 2.1.0)
   rake (~> 13.0)
-  wav-file-kai!
+  wav-file!
 
 BUNDLED WITH
    2.3.18
